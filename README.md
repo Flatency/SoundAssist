@@ -1,4 +1,4 @@
-# AI Sound Assistant for the Deaf / 聋人 AI 声音辅助工具
+# AI Sound Assistant for the Deaf / 听障 AI 声音辅助工具
 
 [English](#english) | [中文](#chinese)
 

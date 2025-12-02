@@ -87,3 +87,11 @@ This tool captures system audio, classifies it using AI (Audio Spectrogram Trans
    ```bash
    python src/main.py
    ```
+
+### 注意事项
+CPU模式请把Time Slice设置在1.0秒或更高（取决于您的CPU性能）
+GPU模式需要安装CUDA，Time Slice设置请参考屏幕上方（需要开启Show Debug Info）的Latency，如果小于100ms，可随意（会占用GPU性能）。
+
+安装VB-CABLE可以激活全向雷达，但是需要游戏支持多声道（>2）输出，需自行设置。
+
+由Copilot协助开发。

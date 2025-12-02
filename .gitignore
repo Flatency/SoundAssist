@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Assignment files
+Assignment4_instructions.pdf
+Assignment4_template/
+Assignment4_template.zip
+
+# User specified ignored files
+design.md
+ref.txt
+run.bat

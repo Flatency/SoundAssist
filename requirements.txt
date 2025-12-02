@@ -1,0 +1,7 @@
+soundcard
+numpy
+torch
+torchaudio
+transformers
+PyQt5
+scipy
